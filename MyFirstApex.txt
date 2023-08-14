@@ -1,2 +1,6 @@
 Learning my first Apex code. 
 practicing to add the code to Git Manually. 
+
+Cloned the remote repository to local using the VS code
+Using the VS code command palate created a branch and 
+sync it with the icon in the bottom left cornor. 
